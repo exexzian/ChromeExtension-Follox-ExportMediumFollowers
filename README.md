@@ -20,7 +20,7 @@ Follox stores 4 things to CSV file : **Name, MediumURL, ProfileImage, Descriptio
     like: https://medium.com/@exexzian
 2. Hit the Follox Icon
 3. Wait for the Process Completion and Tadaaa... - Save the CSV file 
-   (For Convenience Follox offers the file name as : "`MediumUerName - MediumFollower.csv"`)
+   (For Convenience Follox offers the file name as : "`MediumUserName - MediumFollower.csv"`)
 
 **Note:**
 1. Kindly refresh the page and try again if it somehow doesn't work (*or send me support message*).
