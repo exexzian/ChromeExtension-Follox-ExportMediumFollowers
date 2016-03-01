@@ -3,7 +3,7 @@
   "name": "Follox - Export Medium Followers to CSV",
   "short_name": "Follox",
   "description": "One Click Solution to Export Medium Followers To CSV",
-  "version": "1.0.1",
+  "version": "1.0.2",
  
   "background": {
     "persistent": false,
